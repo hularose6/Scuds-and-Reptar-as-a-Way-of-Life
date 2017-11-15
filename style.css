@@ -1,0 +1,43 @@
+#doc{
+	background-color: purple;
+}
+
+#firstImage{
+  width:200px;
+  display:block;
+  margin: 0 auto;
+}
+
+.firstHeader{
+  text-align:center;
+  color:white;
+}
+
+.secondHeader{
+	font-size: 24px;
+}
+#successOne{
+	width:200px;
+	display:block;
+	margin: 0 auto;
+}
+
+#list{
+	list-style-type: none;
+}
+#hint1{
+  text-decoration:none;
+}
+
+.centerHints{
+  text-align:center;
+}
+
+.instructions{
+  color:#1C68F3;
+  padding:0 20px;
+}
+
+#lastHint{
+  padding:0 20px;
+}
